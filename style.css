@@ -1,0 +1,91 @@
+body {
+  font-family: sans-serif;
+}
+/*red*/
+#red{
+  background-color: #EB1D36;
+}
+.nav-link{
+  margin-left: 20px;
+}
+.navlink:hover{
+  color:#fff;
+}
+
+/*blue*/
+.blue {
+  width:1520px;
+  height: 600px;
+  background-color: #1CD6CE;
+}
+.about {
+  display:inline;
+  position: absolute;
+  left:40px;
+  width: 550px;
+margin-top: 80px;
+}
+.gif {
+  position: absolute;
+  right:30px;
+  margin-top: 30px;
+}
+/*green*/
+.green {
+  background-color: #5BB318;
+  width:1520px;
+  height: 1000px;
+}
+.card-img-top {
+  width:50%;
+}
+.line1 {
+    float:right;
+    padding:30px;
+    padding-right: 50px;
+}
+.line2 {
+  float:right;
+  margin-right: 130px;
+}
+.row {
+  float:right;
+  padding:50px;
+}
+
+/*grey*/
+.grey {
+  background-color: #D9D9D9;
+  width:1520px;
+  height: 400px;
+}
+.first {
+float: left;
+padding-left:60px;
+padding-top:30px;
+margin-top:40px;
+}
+.second{
+    float:right;
+    padding-right:60px;
+    padding-top:30px;
+    margin-top:40px;
+}
+.card{
+    float:left;
+    margin-right: 30px;
+}
+/*last*/
+.third {
+  float: left;
+  padding-left:150px;
+  padding-top:10px;
+  margin-top:40px;
+
+}
+.four {
+  float:right;
+  padding-right:100px;
+  padding-top:10px;
+  margin-top:40px;
+}
